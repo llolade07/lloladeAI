@@ -223,13 +223,11 @@ flex:1;
 }
 
 .hero-content h1{
-
-font-size:65px;
-
-line-height:1.2;
-
-margin-bottom:10px;
-
+    font-size:64px;
+    font-weight:700;
+    line-height:1.1;
+    margin-bottom:15px;
+    letter-spacing:-1px;
 }
 
 .hero-content span{
@@ -1477,9 +1475,8 @@ gap:25px;
 }
 
 .hero-content h1{
-
-font-size:54px;
-
+    font-size:42px;
+    line-height:1.2;
 }
 
 .hero-content h2{
@@ -1604,11 +1601,10 @@ text-align:center;
 }
 
 .hero-content h1{
-
-font-size:34px;
-
+    font-size:34px;
+    line-height:1.25;
+    letter-spacing:0;
 }
-
 .hero-content h2{
 
 font-size:20px;
